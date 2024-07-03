@@ -1,0 +1,20 @@
+.hex li{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.hex{
+    background-color: rgb(156, 156, 240);
+    padding: 2px;
+    word-spacing: 40px;
+}
+.contacts form{
+    margin-left: 500px;
+}
+.butn1{
+    margin-left: 600px;
+}
+.abt p{
+    margin-left: 20px;
+}
